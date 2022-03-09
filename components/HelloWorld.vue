@@ -60,7 +60,7 @@ export default {
   name: "HelloWorld",
   data() {
     return {
-      msg: "Color Detection",
+      msg: "Image Color Detection",
       hasImage: false,
       image: null
     };
