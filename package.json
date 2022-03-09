@@ -7,5 +7,9 @@
   },
   "devDependencies": {
     "nuxt3": "latest"
+  },
+  "dependencies": {
+    "vue-image-upload-resize": "^2.3.0",
+    "yarn": "^1.22.17"
   }
 }
